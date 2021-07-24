@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../JavaScript-Bootcamp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio"
+	}
+}
